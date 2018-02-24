@@ -20,7 +20,7 @@ using namespace std;
 
 const int maxim = 100;//maksimalna duljina na izrechenieto
 
-char ch[12] = {'.', '!', '?', ',', '…', ';', ':', '-', '"'};//globalen char masiv sus simvoli
+char ch[12] = {'.', '!', '?', ',', 'â€¦', ';', ':', '-', '"'};//globalen char masiv sus simvoli
 
 bool exist(char sym)//proverka dali daden simvol se sudurja v globalniq masiv
 {
